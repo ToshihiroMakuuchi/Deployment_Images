@@ -39,8 +39,8 @@
 
 一覧はアルファベット順で表示されます。
 
-| デバイス      | BT 4 | BT 5 | Wi-Fi Beacon | Wi-Fi NAN | リンク                                              | 備考         |
-| ------------- | ---- | ---- | ------------ | --------- | --------------------------------------------------- | ------------ |
+| デバイス      | BT 4 | BT 5 | Wi-Fi Beacon | Wi-Fi NAN | リンク                                      | 備考                    |
+| ------------- | ---- | ---- | ------------ | --------- | ------------------------------------------- | ---------------------　 |
 | Aerobits idME | ✅   | ✅   | ❌           | ❌        | https://www.aerobits.pl/product/idme/               |              |
 | DroneBeacon   | ✅   | ✅   | ✅           | ✅        | https://dronescout.co/dronebeacon-remote-id-transponder/ |              |
 | Dronetag Beacon | ✅ | ✅   | ❌           | ❌        | https://shop.dronetag.cz/en/products/21-dronetag-beacon.html |              |
